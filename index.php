@@ -36,6 +36,6 @@
 		<h2><strong>Use Case:</strong></h2>
 		<p>Due to her busy home life Sallie will use Etsy to quickly upload her products and also network with other artisans.</p>
 
-		<p><</p>
+		<p></p>
 
 	</body>
