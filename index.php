@@ -6,6 +6,7 @@
 	<body>
 		<p><strong>Persona</strong></p>
 		<p><strong>Name:</strong> Sally Seashell</p>
+		<img src="images/lava.jpg"/>
 
 		<p><strong>Age:</strong> 27</p>
 
