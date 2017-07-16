@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<link href="css/style.css" rel="stylesheet">
 		<title>Persona</title>
 	</head>
 	<body>
 		<p><strong>Persona</strong></p>
 		<p><strong>Name:</strong> Sally Seashell</p>
-		<img src="images/lava.jpg"/>
+		<img class="lava-image" src="images/lava.jpg"/>
 
 		<p><strong>Age:</strong> 27</p>
 
