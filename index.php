@@ -38,7 +38,7 @@
 		<h2><strong>Use Case:</strong></h2>
 		<p>Due to her busy home life Sallie will use Etsy to quickly upload her products and also network with other artisans.</p>
 
-		<h2><strong>Interaction</strong></h2><p></p>
+		<h2><strong>Interaction</strong></h2>
 		<ul>
 			<li>User needs to list prices for item sizes</li>
 			<li>User needs to list several designs</li>
@@ -46,6 +46,16 @@
 			<li>User will list shipping preferences</li>
 			<li>User will have  post pictures of inventory</li>
 			<li>User will need to interact with buyer</li>
+		</ul>
+		<h2><strong>Conceptual</strong></h2>
+		<ul>
+			<li>Multiple users can comment on multiple prices</li>
+			<li>One profile can list multiple prices</li>
+			<li>One profile can list multiple designs</li>
+			<li>Multiple users comment on custom orders</li>
+			<li>Multiple users can have select shipping preferences</li>
+			<li>One profile can show multiple pictures</li>
+			<li>Multiple users can reply and comment with buyer</li>
 		</ul>
 
 	</body>
