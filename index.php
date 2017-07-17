@@ -45,7 +45,7 @@
 			<li>User needs to address custom orders</li>
 			<li>User will list shipping prefernces</li>
 			<li>User will have  post pictures of inventory</li>
-			<li>User will need to interact with buyers</li>
+			<li>User will need to interact with buyer</li>
 		</ul>
 
 	</body>
