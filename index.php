@@ -7,9 +7,8 @@
 	<body>
 		<p><strong>Persona</strong></p>
 		<p><strong>Name:</strong> Sally Seashell</p>
-		<img class="lava-image" src="images/lava.jpg"/>
-
-		<p><strong>Age:</strong> 27</p>
+		<h2><img class="lava-image" src="images/lava.jpg" alt="Sallie"/></h2>
+	<p><strong>Age:</strong> 27</p>
 
 		<p><strong>Profession:</strong></p>
 		<p>Artist specializing in sculpting</p>
@@ -59,3 +58,4 @@
 		</ul>
 
 	</body>
+	</html>
