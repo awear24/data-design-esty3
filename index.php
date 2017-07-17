@@ -55,7 +55,7 @@
 			<li>Multiple users comment on custom orders</li>
 			<li>Multiple users can have select shipping preferences</li>
 			<li>One profile can show multiple pictures</li>
-			<li>Multiple users can reply and comment with buyer</li>
+			<li>Multiple users can reply/comment with buyer</li>
 		</ul>
 
 	</body>
