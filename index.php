@@ -27,11 +27,12 @@
 		</ul>
 		<p><strong>Frustrations and Needs:</strong></p>
       <ul>
-		<li>Sallie frustration is that she has three small chilren and due to her disable veteran health issues.</li>
+		<li>Sallie frustration is that she has three small children and due to her disable veteran health issues.</li>
 		<li>Sallie needs manage her time more effectively by being able to post quickly.</li>
-		<li>Etsy has solved the issues to sell her product and create a second income stream.</li></ul>
-
-		<p><strong>Goals:</strong>Sallie's goal is to provide a creative outlet for people who want to be fashionable while meeting their fitness goals.</p>
+		<li>Etsy has solved the issues to sell her product and create a second income stream.</li>
+		</ul>
+		<p><strong>Goals:</strong>Sallie's goal is to provide a creative outlet for people who want to be fashionable while meeting
+			their fitness goals.</p>
 
 		<p><strong>Use Story:</strong></p>
 		 <p>As a user I want to see if Etsy is a great match for my product as they mostly artisan based.</p>
