@@ -40,10 +40,10 @@
 
 		<h2><strong>Interaction</strong></h2><p></p>
 		<ul>
-			<li>User needs to list prices for item size</li>
+			<li>User needs to list prices for item sizes</li>
 			<li>User needs to list several designs</li>
 			<li>User needs to address custom orders</li>
-			<li>User will list shipping prefernces</li>
+			<li>User will list shipping preferences</li>
 			<li>User will have  post pictures of inventory</li>
 			<li>User will need to interact with buyer</li>
 		</ul>
