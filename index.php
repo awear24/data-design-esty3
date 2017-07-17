@@ -44,7 +44,7 @@
 			<li>User needs to list several designs</li>
 			<li>User needs to address custom orders</li>
 			<li>User will list shipping preferences</li>
-			<li>User will have  post pictures of inventory</li>
+			<li>User will have post pictures of inventory</li>
 			<li>User will need to interact with buyer</li>
 		</ul>
 		<h2><strong>Conceptual</strong></h2>
