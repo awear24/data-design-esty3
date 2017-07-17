@@ -49,16 +49,16 @@
 			<li>User will list shipping preferences</li>
 			<li>User will have post pictures of inventory</li>
 			<li>User will need to interact with buyer</li>
-		</ul>
-		<h2><strong>Conceptual</strong></h2>
-		<ul>
-			<li>Multiple users can comment on multiple prices</li>
-			<li>One profile can list multiple prices</li>
-			<li>One profile can list multiple designs</li>
-			<li>Multiple users comment on custom orders</li>
-			<li>Multiple users can have select shipping preferences</li>
-			<li>One profile can show multiple pictures</li>
-			<li>Multiple users can reply/comment with buyer</li>
+		   </ul>
+		     <h2><strong>Conceptual</strong></h2>
+		   <ul>
+				<li>profield(primary key)</li>
+			   <li>profileActivationToken(for account verification</li>
+				<li>profileHandle</li>
+			 	<li>profileEmail<li>
+				<li>profileHash(for account password)</li>
+				<li>profilePhone<li>
+				<li>profileSalt(for account password)</li>
 		</ul>
 
 	</body>
