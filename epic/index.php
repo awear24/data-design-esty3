@@ -52,7 +52,7 @@
 				web site launches preference, user fills out drop down menus and hits send, web site and confirms with second verification and send confirmation back to user.</li>
 			<li>User has logged on, web site confirms,user navigates to up load page, inserts jeps,web site deploys them, user updates inventory jeps and confiirms,
 				website acknowledges and post new pictures of inventory on site</li>
-			<li>User logs on, web page acknowledges,sends alert,user reads and reply to buyer, web page then acknowledges and sends will need to buyer</li>
+			<li>User logs on, web page acknowledges,sends alert,user reads and replies to buyer(s), web page then acknowledges and sends will need to buyer</li>
 		</ul>
 		<h2><strong>Conceptual</strong></h2>
 		<h3>Profile</h3>
