@@ -31,7 +31,8 @@
 			<li>Sallie needs manage her time more effectively by being able to post quickly.</li>
 			<li>Etsy has solved the issues to sell her product and create a second income stream.</li>
 		</ul>
-		<p><strong>Goals:</strong>Sallie's goal is to provide a creative outlet for people who want to be fashionable while meeting
+		<p><strong>Goals:</strong>
+			Sallie's goal is to provide a creative outlet for people who want to be fashionable while meeting
 			their fitness goals.</p>
 
 		<p><strong>Use Story:</strong></p>
