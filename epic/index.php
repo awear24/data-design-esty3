@@ -79,10 +79,10 @@
 		</ul>
 			<h2>Product</h2>
 		<ul>
-			<li>product ID#</li>
-			<li>product size</li>
-			<li>product design clasp</li>
-			<li>product pricing</li>
+			<li>productID#</li>
+			<li>productSize</li>
+			<li>productDesignDescription</li>
+			<li>productPricing</li>
 		</ul>
 
 
