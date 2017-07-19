@@ -44,14 +44,23 @@
 
 		<h2><strong>Interaction</strong></h2>
 		<ul>
-			<li>User has logged on to Sallie's site,web page uploads site, user than navigates picture of braclet and clicks,we inventory listings,web page uploads listing, user opens excel and
+			<li>User has logged on to Sallie's sitewe inventory listings,web page uploads listing, user opens excel and
 				website auto populates, prices, user enters new prices into cells, web page updates and loads new values.</li>
 			<li>Web pages uploads</li>
 			<li>User clicks on picture of item for purchase they want</li>
 			<li>Web site uploads the picture of braclet and the information and pricing</li>
 			<li>User clicks the drop down menu for their type of fitbit</li>
-			<li>Web then list the </li>
-			<li></li>
+			<li>Web then auto populates a list the various fitbits in drop down menu</li>
+			<li>User then finds her fitbit a Charge 2 in the field and selects it</li>
+			<li>Web site acknowledged and asks what size</li>
+			<li>User then pick size small</li>
+			<li>Web site acknowledges and ask what design clasp</li>
+			<li>User picks the design they like</li>
+			<li>Web site acknkowledges and auto-populates and ask user to confirm</li>
+			<li>User confirms</li>
+			<li>Web site navigates to check out menu</li>
+			<li>User then inputs payment information from the drop down menu</li>
+			<li></li><li></li>
 		</ul>
 		<h2><strong>Conceptual</strong></h2>
 		<h3>Profile</h3>
