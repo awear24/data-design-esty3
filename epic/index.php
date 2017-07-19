@@ -44,28 +44,26 @@
 
 		<h2><strong>Interaction</strong></h2>
 		<ul>
-			<li>User has logged on to Sallie's site</li>
+			<li>Sallie has logged on to Sallie's website</li>
 			<li>Web pages uploads</li>
-			<li>User clicks on picture of item for purchase they want</li>
-			<li>Web site uploads the picture of bracelet and the information and pricing</li>
-			<li>User clicks the drop down menu for their type of Fitbit</li>
-			<li>Web then auto populates a list the various fitbits in drop down menu</li>
-			<li>User then finds her Fitbit, a Charge 2 in the field and selects it</li>
+			<li>Seller clicks on downloads picture they want</li>
+			<li>Web site uploads the picture</li>
+			<li>Seller inputs information and pricing on new item</li>
+			<li>Web page acknowledges and updates</li>
+			<li>Seller clicks the drop down menu and updates inventory for the type of Fitbit inputed</li>
+			<li>Web then auto populates a list to correct fitbit in drop down menu</li>
+			<li>Seller then updates Fitbit size list</li>
 			<li>Web site acknowledged and asks what size</li>
-			<li>User then pick size small</li>
-			<li>Web site acknowledges and ask what design clasp</li>
-			<li>User picks the design they like</li>
-			<li>Web site acknowledges and auto-populates and ask user to confirm</li>
-			<li>User confirms</li>
-			<li>Web site navigates to check out menu</li>
-			<li>User then inputs payment information from the drop down menu</li>
-			<li>Web site acknowledges, then asks where does user want receipt sent confirmation</li>
-			<li>User tells the site she wants an email</li>
-			<li>Web site acknowledges and then ask what is the zip and to pick a shipping preference</li>
-			<li>User inputs zip and picks shipping preference</li>
-			<li>Website acknowledges and informs user how many days til estimated delivery,asks if user is finished shopping</li>
-			<li>User tells website that they are finished shopping</li>
-			<li>Web site acknowledges and thanks user then updates the inventory stock</li>
+			<li>Seller then pick size small</li>
+			<li>Web site acknowledges and ask what design description</li>
+			<li>Seller inputs the description</li>
+			<li>Web site acknowledges and auto-populates and ask sellar to confirm</li>
+			<li>Seller confirms</li>
+			<li>Web site acknowledges and then ask a shipping weight</li>
+			<li>Seller inputs shipping weight</li>
+			<li>Website acknowledges and updates information</li>
+			<li>Seller refreshes page to update information</li>
+			<li>Web site acknowledges and updates</li>
 		</ul>
 		<h2><strong>Conceptual</strong></h2>
 		<h2>Profile</h2>
