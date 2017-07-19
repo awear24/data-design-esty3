@@ -77,7 +77,7 @@
 		</ul>
 			<h2>Product</h2>
 		<ul>
-			<li>productID#</li>
+			<li>productId#</li>
 			<li>productSize</li>
 			<li>productDesignDescription</li>
 			<li>productPricing</li>
