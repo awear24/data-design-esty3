@@ -79,7 +79,7 @@
 		<ul>
 			<li>productId#</li>
 			<li>productSize</li>
-			<li>productDesignDescription</li>
+			<li>productDescription</li>
 			<li>productPricing</li>
 		</ul>
 
