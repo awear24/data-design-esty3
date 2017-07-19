@@ -74,15 +74,16 @@
 			<li>profileActivationToken(for account verification</li>
 			<li>profileHandle</li>
 			<li>profileEmail<li>
-			<li>profileHash(for account password)</li>
+			</li><li>profileHash(for account password)</li>
 			<li>profilePhone<li>
 			<li>profileSalt(for account password)</li>
 		</ul>
 		<h3>Product</h3>
-		<ul><li>ProductID#</li>
-			<li>Product size</li>
-			<li>Product design clasp</li>
-			<li>Product pricing</li>
+		<ul>
+			<li>productID#</li>
+			<li>product size</li>
+			<li>product design clasp</li>
+			<li>product pricing</li>
 		</ul>
 
 
