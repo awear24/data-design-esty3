@@ -44,16 +44,14 @@
 
 		<h2><strong>Interaction</strong></h2>
 		<ul>
-			<li>User has logged,web page uploads site, user than navigates to inventory listings,web page uploads listing, user opens excel and
+			<li>User has logged on to Sallie's site,web page uploads site, user than navigates picture of braclet and clicks,we inventory listings,web page uploads listing, user opens excel and
 				website auto populates, prices, user enters new prices into cells, web page updates and loads new values.</li>
-			<li>User has logged in, web page acknowledges,user navigates to inventory updates several designs, web page saves and auto populates updated lists.</li>
-			<li>User has logged on, navigates to customer feedback,web page acknowledges and auto populates client list/comments,user navigates to custom orders tab,
-				finds and selects client,sends message,hits send, web page captures/sends.</li>
-			<li>User is logged on to site, navigates the shipping tab,web site acknowledges, auto populates shipping preferences, user picks one,
-				web site launches preference, user fills out drop down menus and hits send, web site and confirms with second verification and send confirmation back to user.</li>
-			<li>User has logged on, web site confirms,user navigates to up load page, inserts jeps,web site deploys them, user updates inventory jeps and confiirms,
-				website acknowledges and post new pictures of inventory on site</li>
-			<li>User logs on, web page acknowledges,sends alert,user reads and replies to buyer(s), web page then acknowledges and sends will need to buyer</li>
+			<li>Web pages uploads</li>
+			<li>User clicks on picture of item for purchase they want</li>
+			<li>Web site uploads the picture of braclet and the information and pricing</li>
+			<li>User clicks the drop down menu for their type of fitbit</li>
+			<li>Web then list the </li>
+			<li></li>
 		</ul>
 		<h2><strong>Conceptual</strong></h2>
 		<h3>Profile</h3>
