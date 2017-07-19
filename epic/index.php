@@ -77,7 +77,7 @@
 			<li>profilePhone</li>
 			<li>profileSalt</li>
 		</ul>
-			<h1>Product</h1>
+			<h2>Product</h2>
 		<ul>
 			<li>product ID#</li>
 			<li>product size</li>
