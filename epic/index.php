@@ -44,7 +44,7 @@
 
 		<h2><strong>Interaction</strong></h2>
 		<ul>
-			<li>User has logged on to Sallie's sitewe inventory listings,web page uploads listing, user opens excel and
+			<li>User has logged on to Sallie's invensitewe tory listings,web page uploads listing, user opens excel and
 				website auto populates, prices, user enters new prices into cells, web page updates and loads new values.</li>
 			<li>Web pages uploads</li>
 			<li>User clicks on picture of item for purchase they want</li>
@@ -60,7 +60,8 @@
 			<li>User confirms</li>
 			<li>Web site navigates to check out menu</li>
 			<li>User then inputs payment information from the drop down menu</li>
-			<li></li><li></li>
+			<li>Web site acknowledges, then asks where does user want receipt sent confirmation</li>
+			<li></li><li></li><li></li><li></li>
 		</ul>
 		<h2><strong>Conceptual</strong></h2>
 		<h3>Profile</h3>
