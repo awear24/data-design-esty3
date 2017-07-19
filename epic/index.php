@@ -70,7 +70,7 @@
 		<h2><strong>Conceptual</strong></h2>
 		<h3>Profile</h3>
 		<ul>
-			<li>profield(primary key)</li>
+			<li>profileId(primary key)</li>
 			<li>profileActivationToken(for account verification</li>
 			<li>profileHandle</li>
 			<li>profileEmail<li>
@@ -79,7 +79,11 @@
 			<li>profileSalt(for account password)</li>
 		</ul>
 		<h3>Product</h3>
-		<p>User logged on,web acknowledges,user navigates to inventory tab,web page auto populates inventory materials,
-			user updates tab,web site updates of product.</p>
+		<ul><li>ProductID#</li>
+			<li>Product size</li>
+			<li>Product design clasp</li>
+			<li>Product pricing</li>
+		</ul>
+
 
 </html>
