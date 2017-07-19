@@ -68,19 +68,18 @@
 			<li>Web site acknowledges and thanks user then updates the inventory stock</li>
 		</ul>
 		<h2><strong>Conceptual</strong></h2>
-		<h3>Profile</h3>
+		<h2>Profile</h2>
 		<ul>
-			<li>profileId(primary key)</li>
-			<li>profileActivationToken(for account verification</li>
-			<li>profileHandle</li>
-			<li>profileEmail<li>
-			</li><li>profileHash(for account password)</li>
-			<li>profilePhone<li>
-			<li>profileSalt(for account password)</li>
+			<li>profileId</li>
+			<li>profileActivationToken(for account verification)</li>
+			<li>profileEmail</li>
+			<li>profileHash</li>
+			<li>profilePhone</li>
+			<li>profileSalt</li>
 		</ul>
-		<h3>Product</h3>
+			<h1>Product</h1>
 		<ul>
-			<li>productID#</li>
+			<li>product ID#</li>
 			<li>product size</li>
 			<li>product design clasp</li>
 			<li>product pricing</li>
