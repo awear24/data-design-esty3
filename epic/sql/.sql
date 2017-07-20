@@ -16,10 +16,12 @@
 
 
 CREATE TABLE item (
-	itemId INT UNSIGNED AUTO_INCREMENT NOT NULL,
-	itemSize VARCHAR (140
-) NOT NULL,
-	itemDescription VARCHAR (140
-) NOT NULL,
-	itemPricing VARCHAR (140) NOT NULL
- )
+	itemId          INT UNSIGNED AUTO_INCREMENT NOT NULL,
+	itemSize        VARCHAR(140)                NOT NULL,
+	itemDescription VARCHAR(140
+						 )                           NOT NULL,
+	itemPricing     VARCHAR(140)                NOT NULL,
+	INDEX (profileId),
+	FOREIGN KEY (itemIdId) REFERENCES profile (profileId),
+	PRIMARY KEY (itemId)
+);
