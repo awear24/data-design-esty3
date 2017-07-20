@@ -21,10 +21,5 @@ CREATE TABLE item (
 ) NOT NULL,
 	itemDescription VARCHAR (140
 ) NOT NULL,
-	itemPricing VARCHAR (140
-) NOT NULL,
-	INDEX (itemP)
-FOREIGN KEY (itemProfileId),
-REFERENCES profile(profileId),
-PRIMARY KEY (itemId)
-);
+	itemPricing VARCHAR (140) NOT NULL
+ )
