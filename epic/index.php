@@ -14,7 +14,6 @@
 		<p>Artist specializing in sculpting</p>
 
 		<p><strong>Technology:</strong></p>
-
 		<ul>
 			<li>Mac Book Air user, core i5 and i7 processors, Intel HD graphics 6000, Sally has I phone 6s.</li>
 		   <li> Sallie pays wifi modem from Xfinity that she pays fifty dollars a month.</li>
@@ -66,7 +65,20 @@
 			<li>Web site acknowledges and updates</li>
 		</ul>
 		<h2><strong>Conceptual</strong></h2>
-		<h2>Profile</h2>
+		<ul>
+			<li>Multiple users can comment on multiple prices</li>
+			<li>One profile can list multiple prices</li>
+			<li>One profile can list multiple designs</li>
+			<li>Multiple users comment on custom orders</li>
+			<li>Multiple users can have select shipping preferences</li>
+			<li>One profile can show multiple pictures</li>
+			<li>Multiple users can reply/comment with buyer</li>
+		</ul>
+	</body>
+</html>
+
+
+<h2>Profile</h2>
 		<ul>
 			<li>profileId</li>
 			<li>profileActivationToken(for account verification)</li>
@@ -77,11 +89,10 @@
 		</ul>
 			<h2>Product</h2>
 		<ul>
-			<li>productId#</li>
-			<li>productSize</li>
-			<li>productDescription</li>
-			<li>productPricing</li>
+			<li>itemId</li>
+			<li>itemProfileId</li>
+			<li>itemSize</li>
+			<li>itemDescription</li>
+			<li>itemPricing</li>
 		</ul>
 
-
-</html>
