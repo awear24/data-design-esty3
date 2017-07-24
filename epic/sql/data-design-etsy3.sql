@@ -1,3 +1,5 @@
+
+/*stopped sql from auto inputting
 DROP TABLE IF EXISTS item;
 DROP TABLE IF EXISTS profile;
 
@@ -26,3 +28,5 @@ CREATE TABLE item (
 	UNIQUE (itemPricing),
 	UNIQUE (itemSize)
 );
+*/
+
